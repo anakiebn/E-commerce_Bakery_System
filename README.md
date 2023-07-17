@@ -8,12 +8,13 @@ I got this project from Mecer-inter-ed 2023 June, where i got hands on experienc
 This was a group of project, my role was to work on the Service, Controller and the View layers. With the use of MVC model, for our Controller i used Servlets to handle Http requests for our View we've utilized JavaScript, JSPs, CSS, Html and Bootstrap.
 First 2 weeks we were 3 but our member had to go so for the remaining weeks we were only 2 in the group.
 
-# Features
+# Features 
 
 - Login : A user can create an account, upon registration they will receive an email to confirm their email, also if they exist in our system they can just login.
 - Order : A customer can place an order, view their products in a cart and place payment.
 - Add To Cart: When we don't have enough stock, a product will be out of stock, therefore it can't be placed to cart, otherwise they can add as many products they desire.
 - Manage stock: Admin has features to add, delete, update stock ingredients, products, recipes, manage orders, users and see reports.
+
 
 # What i learned
 
