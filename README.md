@@ -30,7 +30,7 @@ the best idea always wins, not a person!
 
 # Challenges
 
-- Had connection problem, we kept on creating new connections everytime an object was called, later decided to use a Database pool management system just so we have at-least a centralized conection system instead of creating multiple of connection even when it wasn't neccesary, so it solved our problem.
+- Had connection problem, we kept on creating new connections everytime an object was called, later decided to use a Database pool management system just so we have at-least a centralized connection system instead of creating multiple of connection even when it wasn't neccesary, so it solved our problem.
 - Front-end guy got an opportunity else where so he had to leave, the 2 of us had to adapt to that change, so i had to learn Javascript in short period of time just to understand his code, it was hard due to time sensivity but eventually got the hang of it and continued the work.
 - My TrackOrder.jsp is not yet done, it's a matter of me improving my JavaScript so i can fully design what i really desire.
  
