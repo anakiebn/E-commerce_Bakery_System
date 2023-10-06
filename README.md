@@ -4,9 +4,8 @@ It's Basically an online shopping website but this time for bakery products, lik
 
 # Description
 
-I got this project from Mecer-inter-ed 2023 June, where i got hands on experience working with Java SE8 and JEE fundamentals and we only had a month to finish this project.
-This was a group of project, my role was to work on the Service, Controller and the View layers. With the use of MVC model, for our Controller i used Servlets to handle Http requests for our View we've utilized JavaScript, JSPs, CSS, Html and Bootstrap.
-First 2 weeks we were 3 but our member had to go so for the remaining weeks we were only 2 in the group.
+I got this project from Mecer-inter-ed 2023 June, where i got hands on experience working with Java SE8, JEE and we only had a month to finish this project.
+This was a group project of 3, one left after 2 weeks he had another project that needed his attention, my role was to work with the business logic and also with the controller side of the website. With the use of MVC model, for our Controller i used Servlets to handle Http requests, as for our View, we've utilized JavaScript, JSPs, CSS, Html and Bootstrap.
 
 # Features 
 
