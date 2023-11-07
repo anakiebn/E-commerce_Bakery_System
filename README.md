@@ -35,27 +35,27 @@ the best idea always wins, not a person!
 
  ### Home page
 
-![Home page](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)
+![Home page](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/Home%20page.png){:width="300px" height="200px"}
  
  ### Registering
 
-![reg](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/register.png)
+![reg](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/register.png)
 
  ### Confirm Registration
 
-![regb](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/email.png)
+![regb](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/email.png)
 
  ### Placing an order
 
-![place order](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/place%20order.png)
+![place order](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/place%20order.png)
 
 
  ### Confirm order
 
-![confirm order](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/pay%20conf.png)
+![confirm order](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/pay%20conf.png)
 
 
  ### Successful order
 
-![succ](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/pay%20succ.png)
+![succ](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/pay%20succ.png)
 
