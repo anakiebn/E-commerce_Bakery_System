@@ -35,15 +35,15 @@ the best idea always wins, not a person!
 
  ### Home page
 
-![Home page](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/Home%20page.png){:width="300px" height="200px"}
+![Home page](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/welcom%20p.png)
  
  ### Registering
 
-![reg](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/register.png)
+![registration](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/register.png)
 
  ### Confirm Registration
 
-![regb](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/email.png)
+![confirmation email](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/email.png)
 
  ### Placing an order
 
