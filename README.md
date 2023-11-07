@@ -37,10 +37,6 @@ the best idea always wins, not a person!
 
 ![Welcome page](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/welcom%20p.png)
 
- ### Customer view
-
-![customer view](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/customer%20menu.png)
- 
  ### Registering
 
 ![registration](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/register.png)
@@ -49,6 +45,10 @@ the best idea always wins, not a person!
 
 ![confirmation email](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/93d42232617ba05b7758266b6ec64fcbfc1e1b9f/email.png)
 
+ ### Customer view
+
+![customer view](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/customer%20menu.png)
+ 
  ### Placing an order
 
 ![place order](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/place%20order.png)
