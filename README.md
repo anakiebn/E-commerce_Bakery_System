@@ -1,11 +1,10 @@
 # Online Bakery System
 
-It's Basically an online shopping website but this time for bakery products, like cookies, cakes muffins etc.
+- It's an e-commerce website but this time for bakery products such as cakes, cookies, biscuits etc
 
 # Description
 
-I got this project from Mecer-inter-ed 2023 June, where i got hands on experience working with Java SE8, JEE and we only had a month to finish this project.
-This was a group project of 3, one left after 2 weeks he had another project that needed his attention, my role was to work with the business logic and also with the controller side of the website. With the use of MVC model, for our Controller i used Servlets to handle Http requests, as for our View, we've utilized JavaScript, JSPs, CSS, Html and Bootstrap.
+This was a group project that was initially of 3 members but finished by 2. My role was to work with the business logic and the controller side of the website. With the use of MVC model, for our Controller we used Servlets to handle Http requests, as for our View, we've utilized JavaScript, JSPs, CSS, Html and Bootstrap.
 
 # Features 
 
@@ -13,7 +12,6 @@ This was a group project of 3, one left after 2 weeks he had another project tha
 - Order : A customer can place an order, view their products in a cart and place payment.
 - Add To Cart: When we don't have enough stock, a product will be out of stock, therefore it can't be placed to cart, otherwise they can add as many products they desire.
 - Manage stock: Admin has features to add, delete, update stock ingredients, products, recipes, manage orders, users and see reports.
-
 
 # What i learned
 
@@ -32,4 +30,7 @@ the best idea always wins, not a person!
 - Had connection problem, we kept on creating new connections everytime an object was called, later decided to use a Database pool management system just so we have at-least a centralized connection system instead of creating multiple of connection even when it wasn't neccesary, so it solved our problem.
 - Front-end guy got an opportunity else where so he had to leave, the 2 of us had to adapt to that change, so i had to learn Javascript in short period of time just to understand his code, it was hard due to time sensivity but eventually got the hang of it and continued the work.
 - My TrackOrder.jsp is not yet done, it's a matter of me improving my JavaScript so i can fully design what i really desire.
+
+# Demo
+
  
