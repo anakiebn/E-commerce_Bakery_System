@@ -33,9 +33,13 @@ the best idea always wins, not a person!
 
 # Demo
 
- ### Home page
+ ### Welcome Page
 
-![Home page](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/welcom%20p.png)
+![Welcome page](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/welcom%20p.png)
+
+ ### Customer view
+
+![customer view](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/customer%20menu.png)
  
  ### Registering
 
