@@ -72,7 +72,7 @@ the best idea always wins, not a person!
 ![management](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/b21687c56084eb384c5679fdaffd9f13b0d34d9d/cat%20s.png)
 
 ### Manage products
-- ##### categories, receipts, units have the same management interface as product
+- ##### The management interface for categories, receipts, units and ingredients have the same as product interface
 ![pr](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/b21687c56084eb384c5679fdaffd9f13b0d34d9d/add%20product.png)
 
 
