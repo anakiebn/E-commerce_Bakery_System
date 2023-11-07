@@ -47,7 +47,7 @@ the best idea always wins, not a person!
 
  ### Confirm Registration
 
-![confirmation email](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/email.png)
+![confirmation email](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/93d42232617ba05b7758266b6ec64fcbfc1e1b9f/email.png)
 
  ### Placing an order
 
