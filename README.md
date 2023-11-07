@@ -69,10 +69,10 @@ the best idea always wins, not a person!
 
  ### Admin panel, Management Options
 
-![management](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/cat%20s.png)
+![management](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/b21687c56084eb384c5679fdaffd9f13b0d34d9d/cat%20s.png)
 
 ### Manage products
 - ##### categories, receipts, units have the same management interface as product
-![pr](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/a1de62efe30e2201e8e1c5ef415df3f45eca5545/products.png)
+![pr](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/b21687c56084eb384c5679fdaffd9f13b0d34d9d/add%20product.png)
 
 
