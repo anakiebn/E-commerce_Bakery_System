@@ -33,4 +33,30 @@ the best idea always wins, not a person!
 
 # Demo
 
+ ### Home page
+
+![Home page](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png){:width="300px" height="200px"}
+
  
+ ### Registering
+
+![reg](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/register.png){:width="300px" height="200px"}
+
+ ### Confirm Registration
+
+![reg](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/email.png){:width="300px" height="200px"}
+
+ ### Placing an order
+
+![place order](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/place%20order.png){:width="300px" height="200px"}
+
+
+ ### Confirm order
+
+![confirm order ](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/pay%20conf.png){:width="300px" height="200px"}
+
+
+ ### Successful order
+
+![succ](https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/Home%20page.png)https://github.com/anakiebn/OnlineBakeryShoppingSytem/blob/master/pay%20succ.png){:width="300px" height="200px"}
+
